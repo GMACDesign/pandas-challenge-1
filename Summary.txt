@@ -1,1 +1,11 @@
+Summary
 In our analysis of the top 5 clients by quantity purchased, we found that Client ID 24741 generated the highest total profit of approximately $36.11 million, significantly surpassing the other clients. While all top clients demonstrated substantial revenue and profit contributions, there is a notable gap between the highest earner and the rest, with Client IDs 66037, 38378, 46820, and 33615 trailing behind with profits ranging from $2.03 million to $3.13 million. This indicates a potential focus area for maximizing profitability through targeted strategies for top-performing clients.
+
+Here is the sorted summary of the top 5 clients with the following information: total units purchased, total shipping price, total revenue, and total profit, all converted to millions where applicable:
+
+Client ID	Total Units Purchased	Total Shipping Price (M)	Total Revenue (M)	Total Profit (M)
+24741	239,862	0.009366	76.68	36.11
+66037	43,018	0.010017	8.75	3.13
+38378	73,667	0.011895	9.17	2.96
+46820	75,768	0.011095	8.01	2.59
+33615	64,313	0.012609	6.39	2.03
